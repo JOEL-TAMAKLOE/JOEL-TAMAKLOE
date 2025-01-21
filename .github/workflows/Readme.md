@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by Joel-tamakloe - https://github.com/joel-tamakloe/readme-typing-svg -->
   <a href="https://github.com/joel-tamakloe/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20and%20A.I%20model%20developer;Business%20Analyst%20and%20Project%20Strategist;Data-driven%20Solutions;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20and%20A.I%20model%20developer;Business%20Analyst%20and%20Project%20Strategist;Data-driven%20Solutions;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 # 💫 About Me:
