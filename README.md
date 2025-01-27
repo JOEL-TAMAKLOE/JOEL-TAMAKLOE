@@ -9,6 +9,7 @@
 # 💫 About Me:
 A dedicated data scientist  and A.I model developer with a passion for leveraging data to drive impactful decision-making and solve complex challenges. With a diverse background in data analysis, project management, and innovative problem-solving, I aim to contribute to dynamic teams and create transformative solutions
 [View Repositories](https://github.com/joel-tamakloe?tab=repositories) 🔗👨💻
+<br/>
 [![Image of https://github.com/JOEL-TAMAKLOE/my-views-counter](https://github.com/JOEL-TAMAKLOE/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/JOEL-TAMAKLOE/my-views-counter)
 
 <br/>
