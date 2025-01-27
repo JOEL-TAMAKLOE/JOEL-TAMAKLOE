@@ -10,10 +10,10 @@
 A dedicated data scientist  and A.I model developer with a passion for leveraging data to drive impactful decision-making and solve complex challenges. With a diverse background in data analysis, project management, and innovative problem-solving, I aim to contribute to dynamic teams and create transformative solutions
 [View Repositories](https://github.com/joel-tamakloe?tab=repositories) 🔗👨💻
 <br/>
+
 [![Image of https://github.com/JOEL-TAMAKLOE/my-views-counter](https://github.com/JOEL-TAMAKLOE/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/JOEL-TAMAKLOE/my-views-counter)
 
 <br/>
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qGCkjsnT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kha_fui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JOEL-TAMAKLOE)
  <a href="https://ko-fi.com/joeltamakloe"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
